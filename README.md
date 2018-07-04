@@ -10,6 +10,7 @@ Name            | Package Name           | Publisher           | Status
 ----------------|------------------------|---------------------|-----------------
 Telegram | org.telegram.messenger | Telegram LLC | ✅ Trusted
 Telegram X | org.telegram.messenger | Telegram LLC | ✅ Trusted
+Filtergram | ir.parsoft.filtergrampro | parsoftDeveloper | ❌ Malicious - Spams with users
 Ugram | com.mobogram.messenger.chat | andnetappsdev | ❌ Malicious
 Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ❌ Malicious
 تلگرام لاکچری‎ | com.luxturtelegram.black | nemesis group | ❌ Malicious
