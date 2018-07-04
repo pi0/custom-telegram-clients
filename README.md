@@ -8,8 +8,8 @@ Do you know another missing client or think one of them is malicious? Please ope
 
 Name            | Package Name           | Publisher           | Status 
 ----------------|------------------------|---------------------|-----------------
-Telegram | org.telegram.messenger | Telegram LLC | ✅ Trusted
-Telegram X | org.telegram.messenger | Telegram LLC | ✅ Trusted
+Telegram | org.telegram.messenger | Telegram FZ-LLC | ✅ Trusted
+Telegram X | org.thunderdog.challegram | Telegram LLC | ✅ Trusted
 Filtergram | ir.parsoft.filtergrampro | parsoftDeveloper | ❌ Malicious - Spams with users
 Ugram | com.mobogram.messenger.chat | andnetappsdev | ❌ Malicious
 Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ❌ Malicious
