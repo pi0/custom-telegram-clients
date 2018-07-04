@@ -2,7 +2,7 @@
 
 > Curated list of custom (and potentially malicious) telegram clients 
 
-## Android / Playstore
+## Android / Google Play
 
 Name            | Package Name           | Publisher           | Status 
 ----------------|------------------------|---------------------|-----------------
@@ -10,6 +10,7 @@ Telegram | org.telegram.messenger | Telegram LLC | ✅ Trusted
 Telegram X | org.telegram.messenger | Telegram LLC | ✅ Trusted
 Ugram | com.mobogram.messenger.chat | andnetappsdev | ☠ Malicious
 Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ☠ Malicious
+Auto message Message Telegram | com.ezmassage.auto | Lee Youngsu | ⚠️ Spamming tool
 Telegram HD messenger | com.wtelegramHDmessenger_6964882 | ussef art |
 Multigram | org.telegram.multi | Telegram Multi Studio |
 Telepal | com.yengshine.tele | yengshine |
@@ -43,7 +44,6 @@ Russian Telegrams | ru.gramunofficial | Bounnex
 Rocket Messenger for Telegram | com.appli.rocket.messenger | AppLi, Saif Samir
 Lagatgram | org.ilwt.lagatgram | tsubus
 Fala! | com.makslane.messenger | makslane
-Auto message★Message★Telegram | com.ezmassage.auto | Lee Youngsu | Spamming tool
 Telepost | ru.telepost.msg | TelegrApp
 فارسی برای تلگرام  | com.telegram.farsi | KEREMSOFT
 Mewati Telegram | com.wMewatiTelegram_786 | NishuTech Inc
