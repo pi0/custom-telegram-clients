@@ -1,20 +1,21 @@
-# custom-telgram-clients
+# Custom Telegram Clients
 
-Curated list of custom (and potentially malicious) telegram clients 
+> Curated list of custom (and potentially malicious) telegram clients 
 
-## Android
+## Android / Playstore
 
-Name            | Package Name           | Publisher           | Trusted 
+Name            | Package Name           | Publisher           | Status 
 ----------------|------------------------|---------------------|-----------------
-Telegram | org.telegram.messenger | Telegram LLC | Yes
-Telegram X | org.telegram.messenger | Telegram LLC | Yes
+Telegram | org.telegram.messenger | Telegram LLC | ✅ Trusted
+Telegram X | org.telegram.messenger | Telegram LLC | ✅ Trusted
+Ugram | com.mobogram.messenger.chat | andnetappsdev | ☠ Malicious
+Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ☠ Malicious
 Telegram HD messenger | com.wtelegramHDmessenger_6964882 | ussef art |
 Multigram | org.telegram.multi | Telegram Multi Studio |
 Telepal | com.yengshine.tele | yengshine |
 TelePro | org.telegram.tpro1 | developers pro |
 Tele X | telegram.messenger.telex | Green intelligence |
 Türkçe Telegram | com.turkcetelegram | KEREMSOFT |
-Ugram | com.mobogram.messenger.chat | andnetappsdev | Malicious
 Supergram | com.baranakco.supergram | BaranakCo | 
 TeleDR | com.filtershekanha.teledr | Filtershekanha |
 Plus Messenger | org.telegram.plus | rafalense | 
@@ -25,7 +26,6 @@ Loopy 2id Messenger | com.mubiquo.loopypro | MUBIQUO APPS, SL
 Encrypted Telegram Messenger 2018 | com.wCyberguildMessenger2018_5443393 | hondymondy
 Proxygram Plus - Proxy VPN messenger | com.wProxygramPlus_7017402 | LazyFire
 Teleplus | com.cherisher.teleplus | cherisher
-Hotgram | ir.hotgram.mobile.android | Smart Land Solution | Malicious
 Tele Proxy | com.filtershekanha.teleproxy | Filtershekanha
 آزاد گرام | org.ir.azadtelegram | Mohammad Bakio
 Igram | org.telegram.igram | igram
