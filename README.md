@@ -15,8 +15,10 @@ Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ❌ Malicious
 تلگرام لاکچری‎ | com.luxturtelegram.black | nemesis group | ❌ Malicious
 تلگرام پلاس | ir.puls.messenger | DeveloperJavan | ⚠️ Potentially Malicious
 تلگرام دی آر‎ | com.gigas.hydkgram | Si GooD | ⚠️ Potentially Malicious
+تلگرام هوشمند | com.Luxury_Telegram.freepingle | Studio pingle | ⚠️ Potentially Malicious 
 آزاد گرام | org.ir.azadtelegram | Mohammad Bakio | ⚠️ Potentially Malicious
 Forigram | ir.forigram.messenger | VA24 | ⚠️ Potentially Malicious
+TeleDR | com.filtershekanha.teledr | Filtershekanha | ⚠️ Potentially Malicious
 Auto message Message Telegram | com.ezmassage.auto | Lee Youngsu | ⚠️ Spamming tool
 Telegram HD messenger | com.wtelegramHDmessenger_6964882 | ussef art |
 Multigram | org.telegram.multi | Telegram Multi Studio |
@@ -25,7 +27,6 @@ TelePro | org.telegram.tpro1 | developers pro |
 Tele X | telegram.messenger.telex | Green intelligence |
 Türkçe Telegram | com.turkcetelegram | KEREMSOFT |
 Supergram | com.baranakco.supergram | BaranakCo | 
-TeleDR | com.filtershekanha.teledr | Filtershekanha |
 Plus Messenger | org.telegram.plus | rafalense | 
 Eva: Everything for Telegram | com.sunshine.eva | Sunshine Apps
 Colibri | org.viento.colibri | Viento
