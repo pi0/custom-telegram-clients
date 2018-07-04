@@ -2,14 +2,21 @@
 
 > Curated list of custom (and potentially malicious) telegram clients 
 
+Do you know another missing client or think one of them is malicious? Please open an [Issue](https://github.com/pi0/custom-telgram-clients/issues/new)
+
 ## Android / Google Play
 
 Name            | Package Name           | Publisher           | Status 
 ----------------|------------------------|---------------------|-----------------
 Telegram | org.telegram.messenger | Telegram LLC | ✅ Trusted
 Telegram X | org.telegram.messenger | Telegram LLC | ✅ Trusted
-Ugram | com.mobogram.messenger.chat | andnetappsdev | ☠ Malicious
-Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ☠ Malicious
+Ugram | com.mobogram.messenger.chat | andnetappsdev | ❌ Malicious
+Hotgram | ir.hotgram.mobile.android | Smart Land Solution | ❌ Malicious
+تلگرام لاکچری‎ | com.luxturtelegram.black | nemesis group | ❌ Malicious
+تلگرام پلاس | ir.puls.messenger | DeveloperJavan | ⚠️ Potentially Malicious
+تلگرام دی آر‎ | com.gigas.hydkgram | Si GooD | ⚠️ Potentially Malicious
+آزاد گرام | org.ir.azadtelegram | Mohammad Bakio | ⚠️ Potentially Malicious
+Forigram | ir.forigram.messenger | VA24 | ⚠️ Potentially Malicious
 Auto message Message Telegram | com.ezmassage.auto | Lee Youngsu | ⚠️ Spamming tool
 Telegram HD messenger | com.wtelegramHDmessenger_6964882 | ussef art |
 Multigram | org.telegram.multi | Telegram Multi Studio |
@@ -28,7 +35,6 @@ Encrypted Telegram Messenger 2018 | com.wCyberguildMessenger2018_5443393 | hondy
 Proxygram Plus - Proxy VPN messenger | com.wProxygramPlus_7017402 | LazyFire
 Teleplus | com.cherisher.teleplus | cherisher
 Tele Proxy | com.filtershekanha.teleproxy | Filtershekanha
-آزاد گرام | org.ir.azadtelegram | Mohammad Bakio
 Igram | org.telegram.igram | igram
 تلگرام فارسی فیس گرام‎ | com.facegram.Tg | DelRoid
 TELEGMA LITE | com.wTELEGRAMLITE_4977507 | Tinkoff Bank
@@ -37,7 +43,6 @@ Vialo Telegram Messenger | com.vialo.messenger | Vialo
 Telegram Go | com.wTelegramExpress_4892231 | Nester Apps Corp.
 Vidogram | org.vidogram.messenger | Vidogram Messenger
 Blackgram | uz.usoft.blackgram | Umbrella Soft
-Forigram | ir.forigram.messenger | VA24
 Taligram | es.taligram.com | Josapps
 Speedy Messager | org.freemp.speedymsg | Vladislav Nepoznaniy
 Russian Telegrams | ru.gramunofficial | Bounnex
@@ -48,3 +53,4 @@ Telepost | ru.telepost.msg | TelegrApp
 فارسی برای تلگرام  | com.telegram.farsi | KEREMSOFT
 Mewati Telegram | com.wMewatiTelegram_786 | NishuTech Inc
 Ethiogram | com.etiogram.telegram.messenger.chat | andnetappsdev
+
