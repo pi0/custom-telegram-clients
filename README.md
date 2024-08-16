@@ -55,4 +55,4 @@ Telepost | ru.telepost.msg | TelegrApp
 فارسی برای تلگرام  | com.telegram.farsi | KEREMSOFT
 Mewati Telegram | com.wMewatiTelegram_786 | NishuTech Inc
 Ethiogram | com.etiogram.telegram.messenger.chat | andnetappsdev
-
+[Ayugram](https://github.com/AyuGram) | com.radolyn.ayugram | [Radolyn Labs](https://radolyn.com/) | ✅ Trusted
